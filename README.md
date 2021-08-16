@@ -8,3 +8,5 @@ PRIME X299-DELUXEII+10980XE hackintool0.7.2
 显卡：rx580
 雷电3：热插拔已经完成
 完美的运行
+安装指南：https://item.taobao.com/item.htm?ft=t&id=612355489132
+无线网卡购买：https://item.taobao.com/item.htm?ft=t&id=641765478988
